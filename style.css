@@ -1,0 +1,101 @@
+header,body {
+    width: auto;  
+}
+header {
+    height: 30px;
+}
+.service-title{
+    font-size:20px;
+    font-weight: bold;
+    float: left;
+    margin-top: 16px;
+    margin-left: 50px;
+}
+li {
+    list-style-type: none;
+}
+.nav-list {
+    float: right;
+    padding-right: 2rem;
+    
+    padding-top: 15px;
+}
+.main-copy img{
+    width: 100%;
+}
+.section-wrapper {
+    padding-top: 30px;
+}
+.section-title{
+    text-align: center;
+}
+.section-content {
+    height: 100px;
+    text-align: left;
+}
+.about-image {
+    float: left;
+    width: 48%;
+    height: auto;
+    padding-right: 10px;
+   
+}
+.section-text {
+    float: right;
+    width: 50%;
+    height: fit-content;
+}
+.service-wrapper {
+    padding-top: 30px;
+}
+.content-title {
+    padding-top: 300px;
+    text-align: center;
+}
+.content-list img {
+    width: 100%;
+}
+.content-list {
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle;
+    letter-spacing: 0;
+    padding-right: 35px;
+}
+.contact {
+    text-align: center;
+}
+.contact-title {
+    padding-top: 30px;
+}
+.form-part label {
+    position: absolute;
+}
+.input-subject {
+    position: relative;
+    width: 25%;
+    height: 20px;
+    margin-bottom: 15px;
+}
+.form-send {
+    margin-bottom: 50px;
+}
+.btn-signup {
+    padding: 8px 24px;
+    display: inline-block;
+    background-color: lightpink;
+    color: white;
+    text-decoration: none;
+
+}
+footer {
+    height: 50px;
+    border-top: solid 1px lightslategray;
+}
+footer p {
+    
+    color:gray;
+    font-size: 15px;
+    text-align: end;
+}
+    
