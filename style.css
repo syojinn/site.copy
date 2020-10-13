@@ -46,6 +46,7 @@ li {
     float: right;
     width: 50%;
     height: fit-content;
+    padding-left: 30px;
 }
 .service-wrapper {
     padding-top: 30px;
