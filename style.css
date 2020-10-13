@@ -1,5 +1,6 @@
 header,body {
-    width: auto;  
+    width: auto;
+    display: center;
 }
 header {
     height: 30px;
