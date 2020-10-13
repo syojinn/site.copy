@@ -45,9 +45,10 @@ li {
 }
 .section-text {
     float: right;
-    width: 50%;
+    width: 48%;
     height: fit-content;
     padding-left: 30px;
+    text-align: center;
 }
 .service-wrapper {
     padding-top: 30px;
