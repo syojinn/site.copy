@@ -28,6 +28,7 @@ li {
 }
 .section-title{
     text-align: center;
+    padding-bottom: 30px;
 }
 .section-content {
     height: 100px;
