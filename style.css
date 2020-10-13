@@ -28,11 +28,11 @@ li {
 }
 .section-title{
     text-align: center;
-    padding-bottom: 30px;
 }
 .section-content {
     height: 100px;
     text-align: left;
+    padding-bottom: 30px;
 }
 .about-image {
     float: left;
